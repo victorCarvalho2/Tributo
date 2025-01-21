@@ -1,0 +1,40 @@
+html{
+    font-family: helvetica;
+    background-color: #ddd;
+}
+
+.container{
+    max-width: 1100px;
+    max-height: 12000;
+    background-color: #fff;
+    position: relative;
+    margin: 50px auto;
+    padding: 30px 50px;
+
+}
+
+.header{
+    text-align: center;
+}
+
+.main-tittle{
+    font-size: 50px;
+    text-align: center;
+    font-style: oblique;
+}
+.main-paragraph{
+    font-style: normal;
+}
+.featured-image-logo {
+    text-align: left;
+   margin-top: 10;
+    height: max-content;
+}
+
+.corpo{
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+}
+
